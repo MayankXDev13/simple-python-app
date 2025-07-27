@@ -1,6 +1,9 @@
 #!/bin/bash
 set -e
 
-docker stop simple-python-flask-app
+# Stop the running container (if any)
+echo "Hi"
+
+
 
 
