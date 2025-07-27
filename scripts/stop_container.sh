@@ -2,4 +2,4 @@
 set -e
 
 # Stop the running container (if any)
-echo "Hi"
+docker docker stop mayankxdev/simple-python-flask-app
