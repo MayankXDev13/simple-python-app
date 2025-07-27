@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
 
-echo "Hi Doker"
+docker stop simple-python-flask-app
+
 
